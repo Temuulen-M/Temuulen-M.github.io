@@ -8,7 +8,7 @@ function Hero() {
         <img src={profilePicture} width={150} height={150} alt="Temuulen Molomjamts" className="profile-picture" />
         <h1>Hi, I'm Temuulen</h1>
         <p className="subtitle">Here you can checkout everything I'm working on! <br /> Computer Science Student | Creative Problem Solver</p>
-        <button className="cta-button">Get in Touch</button>
+        <a href="#contact"><button className="cta-button">Get in Touch</button></a>
       </div>
     </section>
   );
