@@ -1,4 +1,4 @@
-# [My personal website](Temuulen-M.github.io)
+# [My personal website](https://temuulen-m.github.io/)
 
 Source code for personal GitHub pages website written in `Typescript` and `Typescript`.
 
